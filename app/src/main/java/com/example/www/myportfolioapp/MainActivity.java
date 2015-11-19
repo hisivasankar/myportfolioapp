@@ -48,7 +48,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         int id = v.getId();
-        String messagePrefix = "This will open my ";
+        String messagePrefix = "This will launch my ";
         StringBuilder message = new StringBuilder(messagePrefix);
         switch (id) {
             case R.id.spotify_steamer:
