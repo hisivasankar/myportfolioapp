@@ -25,4 +25,7 @@
         <item name="android:textColor">#ff2373b6</item>
         <item name="android:layout_gravity">center_horizontal</item>
     </style>
+    <style name="container">
+        <item name="android:background">#ffdfeaf1</item>
+    </style>
 </resources>
